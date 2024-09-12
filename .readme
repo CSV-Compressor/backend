@@ -1,0 +1,29 @@
+# CSV Compressor Web App - Frontend
+
+Cette application web permet aux utilisateurs de télécharger un fichier CSV, de le compresser en fichier ZIP et de récupérer l'archive compressée.
+
+## Fonctionnalités
+
+- **Téléchargement de CSV** : Sélectionnez un fichier CSV depuis votre ordinateur.
+- **Compression** : Le fichier est envoyé au backend où il est compressé en fichier ZIP.
+- **Téléchargement de ZIP** : Téléchargez le fichier compressé après traitement.
+
+## Technologies utilisées
+
+- **Vite + React** : Utilisé pour construire l'application web avec une configuration rapide et optimisée.
+- **Fetch API** : Utilisé pour les requêtes HTTP vers le backend.
+- **React Hooks** : Pour la gestion de l'état et des effets.
+- **SCSS** : Utilisé pour la stylisation des composants.
+
+## Prérequis
+
+- [Node.js](https://nodejs.org/) v14 ou plus récent.
+- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/).
+
+## Installation
+
+1. Clonez ce dépôt :
+
+   ```bash
+   git clone https://github.com/monnomutilisateur/csv-compressor-frontend.git
+   cd csv-compressor-frontend
