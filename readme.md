@@ -22,13 +22,13 @@ This Node.js backend application provides an API endpoint to convert CSV files i
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/CSV-Compressor/backend.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd <project-directory>
+    cd backend
     ```
 
 3. **Install dependencies:**
